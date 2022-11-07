@@ -35,7 +35,8 @@
 1. 服务较为稳定
 2. 
 
-#### 将请求转发至telegram bot/bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion
+#### 将请求转发至其他网站
+z-lib提供了telegram bot的书籍查询和下载接口, 并且仍可通过洋葱浏览器[访问](bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion)
 不失为一种方法吧...
 ## 加入我们
 QQ群: 209582754
